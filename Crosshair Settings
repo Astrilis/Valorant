@@ -1,0 +1,44 @@
+Advanced Settings - ON
+
+PRIMARY
+-------
+ //
+ Dot & Color
+    Color - Red
+    Outline - On
+    Outline Opacity - 1
+    Outline Thickness - 1
+    Center Dot - On
+    Center Dot Opacity - 1
+    Center Dot Thickness - 1
+ //
+ Inner Lines
+    0/2/1/2
+    Movement Error - On
+    Movement Error Multiplier - 0.3
+    Firing Error - On
+    Firing Error Multiplier - 1
+
+AIM DOWN SIGHTS
+---------------
+
+//
+Dot & Color
+    Color - Red
+    Outline - On
+    Outline Opacity - 1
+    Outline Thickness - 1
+    Center Dot - Off
+
+ //
+ Inner Lines
+    1/1/3/2
+
+SNIPER SCOPE
+------------
+
+//
+Color - Red
+Center Dot - On
+Center Dot Opacity - 1
+Center Dot Thickness - 0.5
